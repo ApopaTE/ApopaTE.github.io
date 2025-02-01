@@ -6,10 +6,10 @@
       "Versions": [
         {
           "Name": "Beta_v0.0.1",
-          "Download_Path":"https://apopate.github.io/pi_source/applications/hello_world/versions/v0.0.1.py"
+          "Download_Path": "https://apopate.github.io/pi_source/applications/hello_world/versions/v0.0.1.py"
         }
       ],
-      "Call": "hello_world"
+      "LastVersion": "https://apopate.github.io/pi_source/applications/hello_world/versions/v0.0.1.py"
     }
   ]
 }
